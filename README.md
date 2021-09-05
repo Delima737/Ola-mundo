@@ -44,13 +44,6 @@ Lista de tarefas:
 ***
 [Acesse meu twitter](https://twitter.com/luckas_lima96) => [ texto do link] (link) obs: sem espaço entre colchetes e parenteses
 ***
-**Tabela**
-<br>
-Num|Nome|Nota
----|---|---
-2| Lucas|-8,0
-3 | Gustavo | 9,0
-***
-fim
+
 Destacar comando usa-se crase ` <br>
 ```print("hello wolrd")```
