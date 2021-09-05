@@ -48,9 +48,9 @@ Lista de tarefas:
 <br>
 Num|Nome|Nota
 ---|---|---
-2 | Lucas |-8,0
+2| Lucas|-8,0
 3 | Gustavo | 9,0
 ***
 fim
-Destacar comando usa-se crase (') <br>
-'print("hello wolrd")'
+Destacar comando usa-se crase (`) <br>
+`print("hello wolrd")`
