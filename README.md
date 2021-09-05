@@ -52,5 +52,5 @@ Num|Nome|Nota
 3 | Gustavo | 9,0
 ***
 fim
-Destacar comando usa-se crase (`) <br>
-`print("hello wolrd")`
+Destacar comando usa-se crase <br>
+```print("hello wolrd")```
