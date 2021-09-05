@@ -4,6 +4,7 @@
 primeiro repositório do curso.
 <br>
 adicionei uma linha diretamente no repositório online <br>
+---
 *aprendendo sobre markdown*
 <br>~~markdown~~ => ~~ 
 <br>
@@ -15,7 +16,7 @@ adicionei uma linha diretamente no repositório online <br>
 ---
 linha => --- ou ***
 <br>_*markdown*_ => _*
-<br>
+***
 lista numerada:
 1. Teste
 2. teste 1
@@ -32,9 +33,11 @@ lista demarcada:
 * teste
    * teste
    * teste
-*teste
+- teste
 ---
 Lista de tarefas:
-- [] Criar plano de estudos
-- [] Estudar
-- [] Descansar
+- [ ] Criar plano de estudos
+- [ ] Estudar
+- [ ] Descansar
+- [x] Só olhar
+***
