@@ -42,11 +42,11 @@ Lista de tarefas:
 - [ ] Descansar
 - [x] Só olhar
 ***
-[Acesse meu twitter](https://twitter.com/luckas_lima96) [ texto do link] (link) obs: sem espaço entre colchetes e parenteses
+[Acesse meu twitter](https://twitter.com/luckas_lima96) => [ texto do link] (link) obs: sem espaço entre colchetes e parenteses
 ***
 **Tabela**
 <br>
-Num| Nome| Nota
+Num|Nome|Nota
 ---|---|---
 2 | Lucas |-8,0
 3 | Gustavo | 9,0
