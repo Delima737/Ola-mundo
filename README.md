@@ -27,14 +27,14 @@ lista numerada:
 ***
 lista demarcada:
 
+* teste
+* teste
+* teste
+   * teste
+   * teste
 *teste
-*teste
-*teste
-   *teste
-   *teste
--teste
 ---
 Lista de tarefas:
--[] Criar plano de estudos
--[] Estudar
--[] Descansar
+- [] Criar plano de estudos
+- [] Estudar
+- [] Descansar
