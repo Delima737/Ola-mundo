@@ -6,6 +6,7 @@ primeiro repositório do curso.
 adicionei uma linha diretamente no repositório online <br>
 ---
 *aprendendo sobre markdown*
+[Guia do markdown by Gustavo guanabara](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
 <br>~~markdown~~ => ~~ 
 <br>
 *markdown* => *
@@ -41,3 +42,15 @@ Lista de tarefas:
 - [ ] Descansar
 - [x] Só olhar
 ***
+[Acesse meu twitter](https://twitter.com/luckas_lima96) [ texto do link] (link) obs: sem espaço entre colchetes e parenteses
+***
+**Tabela**
+<br>
+Num| Nome| Nota
+---|---|---
+2 | Lucas |-8,0
+3 | Gustavo | 9,0
+***
+fim
+Destacar comando usa-se crase (') <br>
+'print("hello wolrd")'
