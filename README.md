@@ -2,15 +2,20 @@
  Primeiro **repositorio versionado curso em video**
 
 primeiro repositório do curso.
-adicionei uma linha diretamente no repositório online 
+<br>
+adicionei uma linha diretamente no repositório online <br>
 *aprendendo sobre markdown*
-~~markdown~~ => ~~
+<br>~~markdown~~ => ~~ 
+<br>
 *markdown* => *
+<br>
 **markdown** => ** ou __
+<br>
 #markdown# => # titulo como html
 ---
 linha => --- ou ***
-_*markdown*_ => _*
+<br>_*markdown*_ => _*
+<br>
 lista numerada:
 1. Teste
 2. teste 1
